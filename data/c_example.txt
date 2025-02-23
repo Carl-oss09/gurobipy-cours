@@ -1,0 +1,21 @@
+20
+H 5 t1 t2 t3 t4 t5
+V 3 t6 t7 t8
+H 4 t9 t10 t11 t12
+V 3 t13 t14 t15
+H 6 t16 t17 t18 t19 t20 t21
+V 2 t22 t23
+V 4 t24 t25 t26 t27
+H 3 t28 t29 t30
+V 2 t31 t32
+H 5 t33 t34 t35 t36 t37
+V 3 t38 t39 t40
+V 2 t41 t42
+H 4 t43 t44 t45 t46
+V 3 t47 t48 t49
+H 6 t50 t51 t52 t53 t54 t55
+V 2 t56 t57
+H 4 t58 t59 t60 t61
+V 3 t62 t63 t64
+V 4 t65 t66 t67 t68
+H 5 t69 t70 t71 t72 t73

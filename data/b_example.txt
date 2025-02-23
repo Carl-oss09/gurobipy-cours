@@ -1,0 +1,11 @@
+10
+H 3 t1 t2 t3
+V 2 t4 t5
+H 4 t6 t7 t8 t9
+V 3 t10 t11 t12
+H 2 t13 t14
+V 3 t15 t16 t17
+H 5 t18 t19 t20 t21 t22
+V 2 t23 t24
+H 3 t25 t26 t27
+V 4 t28 t29 t30 t31
